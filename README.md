@@ -1,2 +1,4 @@
 # Gotam-Kumar
-From newchhore 
+Form newchhore
+goal: IBA KARACHI
+EMAIL: gotam9694@gmail.com
