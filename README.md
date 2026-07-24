@@ -24,9 +24,7 @@ Currently preparing for **IBA Karachi** while learning to build real projects.
 3. Contribute to Open Source
 
 ### 📫 Let's Connect
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- Portfolio: [your-website-link]
+- Email: [gotam9694@gmail.com]
 
 ---
 *"Code. Learn. Repeat."*
